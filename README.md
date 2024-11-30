@@ -8,8 +8,6 @@ Key Metrics
  * Compensation: Hourly rates
  * Business Travel: Frequency of business travel
  * Departmental Analysis: Employee distribution by department
-Data Sources
- * IBM HR Dataset ("C:\Users\eloor\Desktop\Projects\Power Bi\IBM HR\IBM data.csv")
 Technologies Used
  * Visualization Tool: Power BI
  * Data Cleaning and Manipulation: MS Excel, DAX
